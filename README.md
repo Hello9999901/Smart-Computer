@@ -4,4 +4,4 @@
 
 ## _MAC OS ONLY_
 
-###
+### Press "Talk to Smart Computer" to initiate. Press as many times as you want until you get the answer you want!
